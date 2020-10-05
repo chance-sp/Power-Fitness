@@ -1,0 +1,22 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+.jumbotron {
+    text-align: center;
+    background-image: url("/images/wesley-tingey--sUG5Xo-0D0-unsplash.jpg");
+    background-position: center;
+}
+
+.homebtn {
+    background-color: rgb(73, 85, 97);
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+}
+
+.phrase {
+    text-shadow: 3px 3px grey;
+}
